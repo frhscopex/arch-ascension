@@ -8,6 +8,7 @@ Simple notes, clean configs, helpful chaos.
 Day 1: The journey begins.
 
 Today’s achievements:
+
 • Organized my project structure for dotfiles inside arch-ascension
 • Learned how to safely copy configuration files into the repo
 • Set up SSH key authentication for GitHub instead of passwords
@@ -15,6 +16,7 @@ Today’s achievements:
 • Confirmed GitHub now trusts this machine using the SSH handshake
 
 Challenges faced:
+
 • GitHub refused my push attempts at first:
 “Permission denied (publickey)”
 • .ssh directory mysteries, lost files, and wrong paths
