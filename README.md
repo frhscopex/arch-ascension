@@ -5,9 +5,9 @@
 I'm learning Linux from the ground up.
 Simple notes, clean configs, helpful chaos.
 
-Day 1: The journey begins.
+# Day 1: The journey begins.
 
-Today’s achievements:
+**Today’s achievements:**
 
 • Organized my project structure for dotfiles inside arch-ascension
 
@@ -19,7 +19,7 @@ Today’s achievements:
 
 • Confirmed GitHub now trusts this machine using the SSH handshake
 
-Challenges faced:
+**Challenges faced:**
 
 • GitHub refused my push attempts at first:
 “Permission denied (publickey)”
